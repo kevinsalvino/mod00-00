@@ -8,8 +8,26 @@ body {
 }
 
 #main-section {
-	background-color: black;
+	background-color: #C63D0F;
 	color: white;
+}
+h1 {
+	font-family: 'Vollkorn', serif;
+	color: #FFF056;
+	font-size: 50px;
+	font-weight: normal;
+}
+section#main-section > a {
+	color: white;
+	text-decoration: none;
+	padding: 15px;
+	display: block;
+}
+
+a[href="https://github.com/kevinsalvino"] {
+	position: absolute;
+	right: 0;
+	top: 0;
 }
 
 .about {
@@ -34,7 +52,11 @@ body {
 	padding-top: 15px;
 	padding-bottom: : 15px;
 }
-
+p {
+	background-color: #DFE2DB;
+	color: black;
+	padding: 10px;
+}
 #portfolio-section {
 	background-color: orange;
 }
