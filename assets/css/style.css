@@ -8,7 +8,7 @@ body {
 }
 
 #main-section {
-	background-color: #C63D0F;
+	background-image: url("http://funnybeach.com/wordpress/wp-content/uploads/2015/08/marf.jpg");
 	color: white;
 }
 h1 {
@@ -58,8 +58,8 @@ p {
 	padding: 10px;
 }
 #portfolio-section {
-	background-color: orange;
-}
+	background-color: #C63D0F;
+	}
 
 #skills-section {
 	background-color: yellow;
